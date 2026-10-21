@@ -13,3 +13,4 @@ For testing vulnerability scanners only. Do not deploy.
     pip-audit -r requirements.txt
     trivy image fastapi-vuln-demo
     grype fastapi-vuln-demo
+
